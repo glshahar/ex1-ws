@@ -1,0 +1,15 @@
+{
+  "name": "ex1-ws",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
